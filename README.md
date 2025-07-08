@@ -28,6 +28,8 @@ I'm a third-year Mechanical Engineering student at MNIT Jaipur, focusing on the 
   <a href="https://www.tensorflow.org" target="_blank"> <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow"/> </a>
   <a href="https://huggingface.co/" target="_blank"> <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?style=for-the-badge" alt="Hugging Face"/> </a>
   <a href="https://scikit-learn.org/" target="_blank"> <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/> </a>
+    <a href="https://wandb.ai/" target="_blank"> <img src="https://img.shields.io/badge/Weights%26Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black" alt="Weights & Biases"/> </a>
+
 </p>
 
 **Web Development & Tools:**
@@ -38,7 +40,6 @@ I'm a third-year Mechanical Engineering student at MNIT Jaipur, focusing on the 
   <a href="https://tailwindcss.com/" target="_blank"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/> </a>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> </a>
   <a href="https://github.com/" target="_blank"> <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a>
-  <a href="https://wandb.ai/" target="_blank"> <img src="https://img.shields.io/badge/Weights%26Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black" alt="Weights & Biases"/> </a>
 </p>
 
 ---
