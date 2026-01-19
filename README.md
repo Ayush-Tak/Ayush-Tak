@@ -1,8 +1,6 @@
 # Ayush Tak
 
-<a href="https://www.instagram.com/ayush_t4k/">
-  <img align="left" alt="Ayush's Instagram" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
-</a>
+
 
 <br />
 <br />
