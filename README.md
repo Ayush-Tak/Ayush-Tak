@@ -3,7 +3,6 @@
 
 
 <br />
-<br />
 
 I'm a third-year Mechanical Engineering student at MNIT Jaipur, focusing on the intersection of engineering and software development. My primary interests are in Machine Learning, NLP, and building modern web applications.
 
